@@ -1,0 +1,15 @@
+G:\c#\CSV-opening-and-manipulating\bin\Debug\CSV-opening-and-manipulating.exe.config
+G:\c#\CSV-opening-and-manipulating\bin\Debug\CSV-opening-and-manipulating.exe
+G:\c#\CSV-opening-and-manipulating\bin\Debug\CSV-opening-and-manipulating.pdb
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating.csprojAssemblyReference.cache
+G:\c#\CSV-opening-and-manipulating\obj\Debug\MainWindow.g.cs
+G:\c#\CSV-opening-and-manipulating\obj\Debug\App.g.cs
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating_MarkupCompile.cache
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating_MarkupCompile.lref
+G:\c#\CSV-opening-and-manipulating\obj\Debug\MainWindow.baml
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating.g.resources
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV_opening_and_manipulating.Properties.Resources.resources
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating.csproj.GenerateResource.cache
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating.csproj.CoreCompileInputs.cache
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating.exe
+G:\c#\CSV-opening-and-manipulating\obj\Debug\CSV-opening-and-manipulating.pdb
